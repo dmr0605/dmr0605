@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main (){
-  // This is just for testing purpose
+  // This is just for testing purpose, not for anything else...
 
 
 
